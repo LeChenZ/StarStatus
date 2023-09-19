@@ -1,0 +1,17 @@
+{
+  "name": "StarStatus",
+  "version": "1.0",
+  "description": "Bot discord Status pour Hébergeur/Autres.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "async": "^3.2.0",
+    "discord.js": "^13.3.1",
+    "tcp-ping": "^0.1.1",
+    "@discordjs/builders": "^0.5.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.25.2"
+  }
+}

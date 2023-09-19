@@ -48,4 +48,5 @@ Bot Discord pour afficher le statut des différents nœuds/services dans un serv
 🌟 *StarStatus - Keeping an eye on your services 24/7!* 🌟
 
 *This project is licensed under the MIT license - see the [LICENSE](LICENSE) file for more details.*
+
 *Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.*

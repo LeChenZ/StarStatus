@@ -15,8 +15,8 @@ A Discord bot to display the status of different nodes/services on a Discord ser
 2. Clone the repository to your local machine.
 3. Navigate to the project folder and run:
    ```
-   npm install
-   npm start
+   npm i or npm install (its the same)
+   node .
    ```
 
 ---
@@ -33,8 +33,8 @@ Bot Discord pour afficher le statut des différents nœuds/services dans un serv
 2. Clonez le dépôt sur votre machine locale.
 3. Naviguez vers le dossier du projet et exécutez :
    ```
-   npm install
-   npm start
+   npm i ou npm install (c'est les meme)
+   node .
    ```
 
 ---

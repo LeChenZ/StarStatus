@@ -1,9 +1,9 @@
 {
   "TOKEN": "token",
-  "GUILD_ID": "guildid", // ID du serveur ou le bot a été mis
+  "GUILD_ID": "guildid",
   "CLIENT_ID": "clientid",
   "IPs": {
-    "WEB": "IP", // Réglé les IPs à votre guise
+    "WEB": "IP",
     "Node-01": "IP",
     "Node-02": "IP"
   }
